@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="30" height="30" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="floortileset" tilewidth="64" tileheight="32">
+  <image source="gfx/floortileset.png" width="128" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2VwQ6AMAhDcf//0d6NAi0lLIsHDm7dXgJdXWa2But6FLv+tofqvu5H9B7b+/buzugnuOisVH1mvKBaj7yF+jyrz8y3WmouojuBi/QZySulrybzmWV684r0zH/hlHxm+1LNZ6TXVV8hzM53EXHR/rB5w56vZlw3N5MvqMd35qpn9XO584r3m82RrqxC6gYycAgLEA4AAA==
+  </data>
+ </layer>
+ <objectgroup name="wall" width="30" height="30">
+  <object x="255" y="604">
+   <polyline points="0,0 1,-219 -220,-220 -220,-346 -3,-344 2,-345 4,-567 129,-568 129,-348 354,-348 355,-220 130,-220 129,3 -4,-5"/>
+  </object>
+ </objectgroup>
+</map>

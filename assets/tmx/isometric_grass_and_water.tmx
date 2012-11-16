@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="45" height="45" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" source="tsx/isometric_grass_and_water.tsx"/>
+ <layer name="Tile Layer 1" width="45" height="45">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC92YjW6bQBCED4zTv1RK0lb2+z9pQWXVL+NZuMM0JI20MuYwfDc3u3vhWkq5jnExn3Ec3z+N0c/R+tfvGORjkH+KlzGGMboxTvg8zed1bJiP92DU+2S81PcbNFbm4D3JMwYca6zxrV2j66/M5CUf9exxTM07w7KH9s4PPA5PDMnzh+L15rF+uvVumYtyTro+llsfk4H6deW1pqq9Y75Xa/XF1zG+lNc+Dg7lIwN1p4+clqfkuDYXs7oWvMy3rtzmXpxT72TMzh+tc/iRhPLynmTXceZojG+tEdl4h2e5a6fx8xgP0JXs5FTtO/z+WebiaonLSzdOPTKGz7PumoduLvRyxFP5k8tL/ljKTXden8F7u3Oh269ym6PqkU6Ya2pbjfZa+zkPHZ/O/Sx/azfrnfaamLNjXmKlLhFkVw3VH5pvnTBnvqbmmc6Zhv38DPZjctOLTquh3K49mfkbzd3QI5jVuxl3/OZaPDf7by/f1R+xXtFzgtnlBevL9PypV31PwjGrzuRmzdM9kHp7qh+uhqv/dd5P0M3tI53eGfPVrLvys++p9ln+aH8/z2uTMT+biOtdqI+z+qle5zyyHhl+pmaO2e2Bl4J7GuYivU2NXS9SXl2nWuY19hjTuqe9jj2d31nTXO1n7kadaQ3HfME68tnMI/qC/WPJK7pOW5kd/8XcX/earM+uJuoeS2vfPTpnwbXO/ODWXH2tfZ/rtzezekH3w/q/Uta/dI7a61nXH3dkboma/Zm7JvriWzNnLGvsGlvZ79U564WZzu5cK/tW5jX+1jm0cO/B7OZQc36rX/4F89b51bK/BVOmezZ+NHPLvGq9cjTvFu6jWWuYlfu9szr2o5nPG7iPZp50e/iAzPq+ZtJ+6Z3C0czx/pK88f5EI9iPZv5ovVv3S0sav1fm2r3d0d5g/M/MvwFxUvefpB8AAA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="45" height="45">
+  <object x="-2" y="1434">
+   <polyline points="0,0 3,-1155 187,-1151 213,-1165 210,-1190 246,-1194 246,-1218 283,-1227 281,-1313 320,-1332 306,-1350 336,-1364 360,-1428 449,-1429 445,-1401 442,-1426 363,-1423 345,-1361 313,-1349 320,-1336 289,-1309 286,-1222 255,-1215 250,-1194 216,-1184 214,-1162 2,-1150 11,-7 1110,-2 1114,-102 1148,-120 1151,-155 1206,-214 1360,-212 1379,-215 1374,-182 1431,-183 1435,-271 1405,-289 1394,-310 1354,-310 1338,-334 1182,-438 1157,-477 1040,-552 981,-593 912,-616 907,-631 796,-632 800,-1144 858,-1146 855,-951 1055,-947 1054,-894 1219,-895 1215,-1035 1333,-1057 1432,-956 1436,-1428 829,-1437 827,-1387 836,-1424 1426,-1422 1424,-968 1326,-1066 1206,-1046 1206,-902 1059,-903 1059,-947 858,-962 858,-1150 792,-1148 792,-632 896,-624 1149,-477 1425,-273 1419,-199 1386,-190 1372,-224 1166,-222 1104,-116 1098,-10 -4,0"/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="20" height="40" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" source="tsx/Purpul1.tsx"/>
+ <tileset firstgid="2" source="tsx/Entrance3.tsx"/>
+ <layer name="ground0" width="20" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3MwQkAIBDAsLr/0q5wD0GUBPpt1TpYfn4P/Sb8/H76AcBtG0Pgs7eADAAA
+  </data>
+ </layer>
+ <layer name="ground1" width="20" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OQQkAAAgEsMP+oa1wPxG2BEsAfpvrAABQW4TV02KADAAA
+  </data>
+ </layer>
+</map>

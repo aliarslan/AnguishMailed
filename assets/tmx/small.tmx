@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="20" height="50" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" source="tsx/Entrance.tsx"/>
+ <tileset firstgid="2" source="tsx/Purpul1.tsx"/>
+ <tileset firstgid="3" name="Bricks" tilewidth="109" tileheight="125">
+  <image source="gfx/png/Bricks.png" width="109" height="125"/>
+ </tileset>
+ <layer name="ground" width="20" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3KoQEAAAwCIP3/aV9YWYNMAgAAAHzp8Q35Ac+VoA8AAA==
+  </data>
+ </layer>
+ <layer name="ground1" width="20" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3PwQkAIAwDwFL339kNig+RCHeQb0iqAEjVh/mlb4Xvu92X/vf1PgBgtgFpnbWpoA8AAA==
+  </data>
+ </layer>
+</map>
